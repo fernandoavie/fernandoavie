@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fernando
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently studying a Master in Business Analytics and Big Data
-- 💞️ I’m looking to collaborate on many project related with Data Analysis and Machine Learning technologies 
+- 💞️ I’m looking to collaborate on many projects related with Data Analysis and Machine Learning technologies 
 - 📫 How to reach me via email at fernando.alvarezv@student.ie.edu
 - ⚡ Fun fact: ...
 
